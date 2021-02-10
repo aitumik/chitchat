@@ -3,7 +3,7 @@ package main
 import (
   "net/http"
   "html/template"
-  "chitchat/data/threads"
+  "github.com/aitumik/chitchat"
   "fmt"
 )
 
